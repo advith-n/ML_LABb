@@ -21,3 +21,4 @@
 11 Write a Program to develop simple single layer perceptron to implement AND, OR Boolean functions.
 
 12 Write a program to develop Multi-layer perceptron to implement AND-NOT, XOR Boolean functions.
+cars_data=pd.read_csv('Toyota.csv', index_col=0,na_values=['??','????'])
